@@ -1,0 +1,5 @@
+{
+  "name": "Secure File Vault",
+  "description": "Secure web file upload system with AES encryption, SHA-256 hashing, and integrity verification.",
+  "requestFramePermissions": []
+}
